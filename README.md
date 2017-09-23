@@ -4,4 +4,4 @@
 * ADT
 	* Partial solutions to past year midterm tests.
 
-> Even though the link is public, please refrain from public sharing.
+> Even though the link is public, please refrain from public sharing. The contents is provided as-is, and not intended to be a fully reliable source.
